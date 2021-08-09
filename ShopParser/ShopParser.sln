@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer", "Viewer\Viewer.csproj", "{3FCD3D72-71D5-4792-9020-BBF48597F21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlParser", "HtmlParser\HtmlParser.csproj", "{72AF7FCE-C3AA-419F-B2CA-67363DBE44DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCD3D72-71D5-4792-9020-BBF48597F21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCD3D72-71D5-4792-9020-BBF48597F21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCD3D72-71D5-4792-9020-BBF48597F21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCD3D72-71D5-4792-9020-BBF48597F21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AF7FCE-C3AA-419F-B2CA-67363DBE44DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AF7FCE-C3AA-419F-B2CA-67363DBE44DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AF7FCE-C3AA-419F-B2CA-67363DBE44DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AF7FCE-C3AA-419F-B2CA-67363DBE44DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F4010A-E46D-4CA0-8117-89858DA0DF97}
+	EndGlobalSection
+EndGlobal
